@@ -28,13 +28,16 @@ Go to the project directory
 Install dependencies
 
     npm install
-  cd frontend/
-  npm install
+    cd frontend
+    npm install
+    
 Start the server
 
-  npm run start
+    npm run start
+    
 Start the Client
 
-  //open now terminal
-  cd frontend
-  npm start
+open now terminal
+
+     cd frontend
+     npm start
