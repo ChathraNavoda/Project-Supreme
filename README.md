@@ -18,12 +18,16 @@ Run Locally
 Clone the project
 
 https://github.com/ChathraNavoda/Project-Supreme
+
+
+
 Go to the project directory
 
- cd ProjectSupreme
+    cd ProjectSupreme
+    
 Install dependencies
 
-  npm install
+    npm install
   cd frontend/
   npm install
 Start the server
